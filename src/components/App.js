@@ -1,9 +1,9 @@
-import About from "./pages/About";
+import BaseLayaout from "components/layaout/BaseLayaout";
 
 function App() {
   return (
     <div>
-      <About />
+      <BaseLayaout />
     </div>
   );
 }
